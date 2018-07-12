@@ -1,0 +1,19 @@
+{
+  "name": "ide-lilypond",
+  "main": "./lib/ide-lilypond",
+  "version": "0.0.0",
+  "description": "LilyPond support for Atom IDE.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "ide-lilypond:toggle"
+  },
+  "repository": "https://github.com/ncoda/atom-ide-lilypond",
+  "license": "LGPLv3",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "language-lilypond": "*"
+  }
+}
