@@ -1,10 +1,9 @@
 {
   "name": "ide-lilypond",
   "main": "./lib/ide-lilypond",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "LilyPond support for Atom IDE.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "ide-lilypond:toggle"
   },
