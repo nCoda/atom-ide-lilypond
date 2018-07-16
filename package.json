@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "ide-lilypond:toggle"
   },
-  "repository": "https://github.com/ncoda/atom-ide-lilypond",
+  "repository": "https://github.com/nCoda/atom-ide-lilypond.git",
   "license": "LGPLv3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
